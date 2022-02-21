@@ -1,0 +1,29 @@
+.category-container {
+    max-width: 1000px;
+    width: 100%;
+    margin: auto;
+}
+
+
+.category-h1 {
+    color: #ff564c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.category-h1-span {
+    color: #666;
+}
+
+
+.category-empty {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.category-add-link {
+    text-decoration: none;
+    color:#ff564c;
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.recipe-roll-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 1000px;
+    margin-top: 25px;
+    align-items: center;
+    justify-content: center;
+}

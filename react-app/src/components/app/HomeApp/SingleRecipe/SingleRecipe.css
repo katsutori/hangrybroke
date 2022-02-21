@@ -1,0 +1,249 @@
+.single-recipe-container {
+    width: 1000px;
+    margin-top: 25px !important;
+    margin-bottom: 100px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.single-title {
+    font-family: nyt-cheltenham,Georgia,"Times New Roman",serif;
+    font-size: 42px;
+}
+
+
+.single-by {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400 !important;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.single-meta {
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    padding-bottom: 25px;
+}
+
+
+.single-photo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 35px;
+    padding-bottom: 40px;
+    border-bottom: 3px solid rgba(0, 0, 0, .6);
+}
+
+
+.single-photo-container {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 3px;
+}
+
+.single-h2 {
+    margin: 0px 0px 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #ff564c;
+}
+
+
+.cat-reviews {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+}
+
+.single-stars {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+.single-cat {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+.single-span {
+    font-weight: bold;
+    margin-right: 5px;
+    color:#ff564c;
+    text-decoration: none;
+}
+
+
+.single-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+.butt-section {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+
+.cooking-instructions {
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    padding-bottom: 5px;
+    margin-bottom: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+.id-review {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.single-butts {
+    padding: 3px 10px;
+    margin-right: 4px;
+    background-color: #a66252;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.one-review {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+.review-by {
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: -5px;
+}
+
+.review-by-span {
+    font-weight: bold;
+}
+
+
+.single-ingredients {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+.single-script {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-right: 10px;
+}
+
+.delete-recipe-button {
+    border: none;
+    color: white;
+    background-color: #ff564c;
+    padding: 5px 8px;
+    border-radius: 3px;
+    margin-right: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.delete-recipe-button:hover {
+    background-color: #a66252;
+}
+
+.ingredient-li {
+    list-style: none;
+    margin-bottom: 3px;
+}
+
+.ingredients-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    padding: 3px 2px;
+}
+
+.ingredients-container-add {
+    display: flex;
+    justify-content: flex-start;
+    padding: 3px 2px;
+}
+
+.ing-butt-cont {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 25px;
+    align-items: center;
+}
+
+.ing-butt {
+    margin-left: 4px;
+    border: none;
+    background-color: #ff564c;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.ing-butt:hover {
+    background-color: #a66252;
+ }
+
+ .ing-name {
+     font-size: 15px;
+     padding: 2px 0px;
+ }
+
+
+ .ingredient-tool-toggle {
+     background-color: white;
+     padding: 1px 6px;
+     height: 23px;
+     border-radius: 3px;
+     border: 1px solid #ff564c;
+     cursor: pointer;
+     color: #ff564c;
+ }
+
+ .ingredient-tool-toggle:hover {
+    background-color: #ff564c;
+
+    color: white;
+ }
+
+
+ .ing-name-head {
+     display: flex;
+     align-items: center;
+ }
+
+ .ing-h2 {
+     margin: 0px;
+ }
+
+
+ .ing-controls {
+     margin-bottom: 10px;
+ }
