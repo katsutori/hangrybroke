@@ -173,8 +173,9 @@ const EditRecipeForm = () => {
                                 <option value="Lunch">Lunch</option>
                                 <option value="Dinner">Dinner</option>
                                 <option value="Dessert">Dessert</option>
-                                <option value="Soup">Soup</option>
-                                <option value="Salad">Salad</option>
+                                <option value="Soups">Soups</option>
+                                <option value="Salads">Salads</option>
+                                <option value="Snacks">Snacks</option>
                                 <option value="Drinks">Drinks</option>
                             </select>
                     </label>

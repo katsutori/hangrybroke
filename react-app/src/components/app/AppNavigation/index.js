@@ -46,9 +46,10 @@ function AppNavigation() {
                             <Link to='/categories/Breakfast'>Breakfast</Link>
                             <Link to='/categories/Lunch'>Lunch</Link>
                             <Link to='/categories/Dinner'>Dinner</Link>
-                            <Link to='/categories/Dessert'>Dessert</Link>
-                            <Link to='/categories/Soup'>Soup</Link>
-                            <Link to='/categories/Salad'>Salad</Link>
+                            <Link to='/categories/Desserts'>Desserts</Link>
+                            <Link to='/categories/Soups'>Soups</Link>
+                            <Link to='/categories/Salads'>Salads</Link>
+                            <Link to='/categories/Snacks'>Snacks</Link>
                             <Link to='/categories/Drinks'>Drinks</Link>
                             </div>
                     </div>
