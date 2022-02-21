@@ -17,7 +17,7 @@ def seed_recipes():
 
     breakfast_cat = Category(name='Breakfast')
     lunch_cat = Category(name='Lunch')
-    snack_cat = Category(name='Snack')
+    snack_cat = Category(name='Snacks')
     dinner_cat = Category(name="Dinner")
 
 
