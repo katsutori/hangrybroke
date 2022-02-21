@@ -7,15 +7,15 @@ def seed_categories():
     lunch = Category(
         name='Lunch')
     soup = Category(
-        name='Soup')
+        name='Soups')
     salad = Category(
-        name='Salad')
+        name='Salads')
     dinner = Category(
         name='Dinner')
     dessert = Category(
-        name="Dessert")
+        name="Desserts")
     snack = Category(
-        name='Snack')
+        name='Snacks')
     drink = Category(
         name='Drinks')
 
